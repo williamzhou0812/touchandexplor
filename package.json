@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "bootstrap": "3",
         "html-react-parser": "^0.7.0",
         "idle-js": "^0.1.3",
